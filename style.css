@@ -270,8 +270,10 @@ body {
   position: absolute;
   bottom: 20px;
   right: 10px;
+  transition: 0.15s ease;
 }
 
 #fproduct .product .cart:hover {
-
+  color: #e8f6ea;
+  background-color: #088178;
 }
