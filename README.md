@@ -1,2 +1,2 @@
 # Ecommerce Website
-- Cara | An ecommerce clothing platform
+## Cara | An ecommerce clothing platform
