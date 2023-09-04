@@ -8,4 +8,4 @@ This is a dummy ecommerce website having multiple pages listed below:
 * About
 * Contact
 
-Website has a cart functionality.
+The website has a cart functionality.
